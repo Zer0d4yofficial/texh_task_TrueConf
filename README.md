@@ -1,1 +1,7 @@
-# texh_task_TrueConf
+### Команда установки и запуска
+#### `npm install` - установка зависимостей из `package.json`
+#### `npm run start` - запуск работы приложения.
+
+# В папке standart_elevator лежит стандартное техническое задание для вас.
+# В папке improve_elevator расширенное. 
+
